@@ -8,7 +8,7 @@
 ![Данные](Data.PNG) 
 
 <p align="center">
-  <img width="460" height="300" src="Test.png">
+  <img width="460" height="900" src="Test.png">
 </p>  
 
 ![Данные](Result.PNG) 
